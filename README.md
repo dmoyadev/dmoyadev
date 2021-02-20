@@ -16,7 +16,7 @@
 
 📫&nbsp;&nbsp;&nbsp;Email me at danielmoyaleiva@gmail.com
 
-🌐&nbsp;&nbsp;&nbsp;Know more about me at danielmoyaleiva@gmail.com
+🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://danimoya.es" target="_blank">danimoya.es</a>
 
 <br>
 <br>
