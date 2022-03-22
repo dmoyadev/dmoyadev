@@ -10,9 +10,9 @@
 	Well, hello! 👋🏻 <img align="right" src="https://gpvc.arturio.dev/dmoyadev" alt="Profile views">
 </h2>
 
-💼&nbsp;&nbsp;&nbsp;Web Developer at <a href="https://grupotks.com/">TKS</a>
+💼&nbsp;&nbsp;&nbsp;Web Developer at <a href="https://pandago.eco/">PandaGo</a>&nbsp;🐼
 
-🌱&nbsp;&nbsp;&nbsp;I’m currently learning **VueJS** & **Angular 8+**
+🌱&nbsp;&nbsp;&nbsp;I’m currently using and mastering **VueJS** & **Angular 8+**
 
 📫&nbsp;&nbsp;&nbsp;Email me at danielmoyaleiva@gmail.com
 
