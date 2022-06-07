@@ -4,12 +4,8 @@
 
 <img src="/img/header-logo.svg">
 
-<a href="https://app.daily.dev/Lyrylynx">
-	<img src="https://api.daily.dev/devcards/21b68b89c74045798f3921152d02acb1.png?r=gy1" width="400" alt="Daniel Moya's Dev Card" align="right"/>
-</a>
-
 <h2>
-	Well, hello! 👋🏻 <img align="right" src="https://gpvc.arturio.dev/dmoyadev" alt="Profile views">
+    Well, hello! 👋🏻 <img align="right" src="https://gpvc.arturio.dev/dmoyadev" alt="Profile views">
 </h2>
 
 💼&nbsp;&nbsp;&nbsp;Web Developer at <a href="https://pandago.eco/">PandaGo</a>&nbsp;🐼
@@ -20,18 +16,11 @@
 
 🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://danimoya.es" target="_blank">danimoya.es</a>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,php,vue,nuxtjs,angular,idea,firebase,git,mysql,vite,ps)](https://skillicons.dev)
 
 <h3 align="center">
-	⬇⬇ Check my pinned projects below ⬇⬇
+    ⬇⬇ Check my pinned projects below ⬇⬇
 </h3>
 <p align="center">
-	<i>Please take into account they are WIP!<i>
+    <i>Please take into account they are WIP!<i>
 </p>
