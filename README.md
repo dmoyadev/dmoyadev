@@ -14,7 +14,7 @@
 
 📫&nbsp;&nbsp;&nbsp;Email me at danielmoyaleiva@gmail.com
 
-🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://danimoya.es" target="_blank">danimoya.es</a>
+🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://dmoya.dev" target="_blank">dmoya.dev</a>
 
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,vite,ts,html,sass,jest,php,idea,firebase,git,mysql,ps)](https://skillicons.dev)
 
